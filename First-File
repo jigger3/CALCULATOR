@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"ENTER NAME:MUHAMMAD KHUBAIB"<<endl;
+cout<<"ENTER ROLL NO:23ST017"<<endl;
+}
