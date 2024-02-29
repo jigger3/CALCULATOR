@@ -5,4 +5,7 @@ int main()
 cout<<"ENTER NAME:MUHAMMAD KHUBAIB"<<endl;
 cout<<"ENTER ROLL NO:23ST017"<<endl;
 cout<<"sum of two number:"<<"a+b"<<endl;
+cout<<"substract of two number:"<<"a-b"<<endl;
+cout<<"multiplication of two number:"<<"a*b"<<endl;
+cout<<"division of two number:"<<"a/b"<<endl;
 }
